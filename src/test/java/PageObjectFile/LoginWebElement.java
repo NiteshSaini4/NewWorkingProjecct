@@ -28,7 +28,7 @@ public class LoginWebElement {
 	{
 		Submit.click();
 	}
-	public void user_log()
+	public void user_log1()
 	{
 		Logout.click();
 	} 
